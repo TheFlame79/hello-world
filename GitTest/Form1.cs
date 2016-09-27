@@ -19,7 +19,7 @@ namespace GitTest
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            MessageBox.Show("mein erster Test");
+            MessageBox.Show("mein erster Test2");
         }
     }
 }
